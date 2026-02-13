@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.rps.net.RpsServerHandlerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-02-13T06:42:12" hostname="MacBook-Pro-Kirill.local" time="0.028">
+  <properties/>
+  <testcase name="restoresSessionWhenProvided()" classname="com.example.rps.net.RpsServerHandlerTest" time="0.022"/>
+  <testcase name="createsSessionOnNickname()" classname="com.example.rps.net.RpsServerHandlerTest" time="0.003"/>
+  <testcase name="greetsOnConnect()" classname="com.example.rps.net.RpsServerHandlerTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

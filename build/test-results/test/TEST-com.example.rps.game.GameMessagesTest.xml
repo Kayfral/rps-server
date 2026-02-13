@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.rps.game.GameMessagesTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-02-13T06:42:10" hostname="MacBook-Pro-Kirill.local" time="0.003">
+  <properties/>
+  <testcase name="formatMoveReturnsEnglishNames()" classname="com.example.rps.game.GameMessagesTest" time="0.001"/>
+  <testcase name="movePromptIncludesChoicesAndSeconds()" classname="com.example.rps.game.GameMessagesTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
