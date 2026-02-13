@@ -13,16 +13,14 @@ import io.netty.handler.codec.string.StringDecoder;
 import io.netty.handler.codec.string.StringEncoder;
 import java.nio.charset.StandardCharsets;
 import lombok.RequiredArgsConstructor;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
 @Component
 @RequiredArgsConstructor
+@Slf4j
 public class RpsServer {
-    private static final Logger log = LoggerFactory.getLogger(RpsServer.class);
-
     private final RpsServerHandler handler;
 
     @Value("${rps.server.port}")
