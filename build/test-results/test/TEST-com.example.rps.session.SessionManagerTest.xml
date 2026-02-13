@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.rps.session.SessionManagerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-02-13T09:21:00" hostname="MacBook-Pro-Kirill.local" time="0.058">
-  <properties/>
-  <testcase name="disconnectRemovesFromWaitingQueue()" classname="com.example.rps.session.SessionManagerTest" time="0.002"/>
-  <testcase name="expiresSessionAfterReconnectWindow()" classname="com.example.rps.session.SessionManagerTest" time="0.056"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

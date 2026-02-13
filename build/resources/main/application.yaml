@@ -1,7 +1,0 @@
-rps:
-  server:
-    port: 5555
-    move-timeout-seconds: 10
-    reconnect-window-seconds: 30
-    max-nick-length: 100
-    max-line-length: 256

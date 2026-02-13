@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.rps.net.RpsServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-02-13T09:21:00" hostname="MacBook-Pro-Kirill.local" time="0.024">
-  <properties/>
-  <testcase name="startsAndStops()" classname="com.example.rps.net.RpsServerTest" time="0.024"/>
-  <system-out><![CDATA[12:21:00.292 [Test worker] INFO com.example.rps.net.RpsServer -- RPS server started on port 0
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
